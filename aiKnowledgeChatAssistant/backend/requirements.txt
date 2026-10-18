@@ -1,0 +1,13 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20
+pydantic-settings>=2.7,<3
+openai>=1.75,<3
+langchain-openai>=0.3,<2
+langchain-text-splitters>=0.3,<2
+langgraph>=0.3,<2
+chromadb>=1,<2
+pymupdf>=1.25,<2
+rank-bm25>=0.2.2
+pytest>=8,<10
+httpx>=0.28,<1
